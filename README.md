@@ -11,6 +11,10 @@ If this gets approved, I will start building immidiately!
 <img width="731" height="701" alt="Screenshot 2026-06-27 at 11 38 45 PM" src="https://github.com/user-attachments/assets/cc555522-1f85-4e0e-9b82-31d0e409a748" />
 
 my arduino code is in this repo as well :D
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 Name|Purpose|Quantity|Total Cost (USD)|Link|Distributor
 ----------------------------------------------------------
