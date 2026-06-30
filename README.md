@@ -14,11 +14,15 @@ my arduino code is in this repo as well :D
 | Name          | Purpose         | Quantity  |Cost    |Link|
 | ------------- | -------------   |-----------|--------|----|
 | LolinC3 Mini  | ESP Board       |1          |$5      |https://www.aliexpress.us/item/3256804553736450.html?spm=a2g0o.productlist.main.1.3056c8c7kapCqa&algo_pvid=e6e47fd1-84b0-4ef0-bf44-930f44f5f97a&algo_exp_id=e6e47fd1-84b0-4ef0-bf44-930f44f5f97a-0&pdp_ext_f=%7B%22order%22%3A%221246%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.56%211.06%21%21%215.56%211.06%21%40211b65de17828348934321079e7807%2112000056120453300%21sea%21US%214570435753%21ABX%211%210%21n_tag%3A-29910%3Bd%3A125d364a%3Bm03_new_user%3A-29895%3BpisId%3A5000000207262906&curPageLogUid=R4KzyPhvyidP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004740051202%7C_p_origin_prod%3A
-| Switches      | To change songs |1          |$5      |
+| Switches      | To change songs |1          |$5      |aliexpress.us/item/3256812226784936.html?spm=a2g0o.cart.0.0.57ae38danzyz7n&mp=1&pdp_npi=6%40dis%21USD%21USD+4.62%21USD+0.99%21%21USD+0.99%21%21%21%400b15841617828349344684062e10f4%2112000058307693326%21ct%21US%214570435753%21%211%210%21&gatewayAdapt=glo2usa 
 
-Name|Purpose|Quantity|Total Cost (USD)|Link|Distributor
-----------------------------------------------------------
-LolinC3 Mini |ESP32 board :)| 1|5.00|https://www.aliexpress.us/item/3256804553736450.html?spm=a2g0o.productlist.main.1.3056c8c7kapCqa&algo_pvid=e6e47fd1-84b0-4ef0-bf44-930f44f5f97a&algo_exp_id=e6e47fd1-84b0-4ef0-bf44-930f44f5f97a-0&pdp_ext_f=%7B%22order%22%3A%221246%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.56%211.06%21%21%215.56%211.06%21%40211b65de17828348934321079e7807%2112000056120453300%21sea%21US%214570435753%21ABX%211%210%21n_tag%3A-29910%3Bd%3A125d364a%3Bm03_new_user%3A-29895%3BpisId%3A5000000207262906&curPageLogUid=R4KzyPhvyidP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004740051202%7C_p_origin_prod%3A,Aliexpress
-Switches,switches to change songs :3,4,5.00,aliexpress.us/item/3256812226784936.html?spm=a2g0o.cart.0.0.57ae38danzyz7n&mp=1&pdp_npi=6%40dis%21USD%21USD+4.62%21USD+0.99%21%21USD+0.99%21%21%21%400b15841617828349344684062e10f4%2112000058307693326%21ct%21US%214570435753%21%211%210%21&gatewayAdapt=glo2usa,Aliexpress
-TFT LCD Board,Visual display,1,0.00,I have it at home :),
-Wires,Prototyping,Multiple,0.00,I have it at home :),
+
+Other parts:
+TFT LCD Board and Wires - at home :D
+
+
+Wiring
+
+TFT -> LolinC3 mini
+Switches -> LolinC3 mini
+-> prototyping will be done using a breadboard, final may be a custom pcb.
